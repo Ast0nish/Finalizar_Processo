@@ -53,3 +53,33 @@ O acesso remoto por **IP** pode exigir permissões administrativas adicionais de
 1. Baixe ou clone o repositório:
    ```bash
    git clone https://github.com/Ast0nish/Finalizar_Processo
+
+2. Execute o script:
+
+.\Finalizar_Processos.ps1
+
+3. Informe:
+
+- Nome ou IP da máquina
+
+- Selecione o processo desejado
+
+- Clique em Finalizar Processo
+
+🧠 Observações Técnicas
+
+O script utiliza PowerShell Remoting (WinRM) sempre que possível
+
+Em ambientes com EDR/Antivírus corporativo, algumas ações podem ser bloqueadas
+
+O PsExec (caso utilizado em versões anteriores) pode ser identificado como ferramenta administrativa e sofrer restrições
+
+📄 Licença
+
+Este projeto é de uso interno / educacional.
+Sinta-se à vontade para adaptar e evoluir conforme a necessidade do seu ambiente.
+
+🤝 Contribuições
+
+Sugestões, melhorias e feedbacks são bem-vindos!
+Abra uma issue ou envie um pull request 🚀
