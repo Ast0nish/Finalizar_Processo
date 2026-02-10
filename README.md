@@ -68,7 +68,7 @@ O acesso remoto por **IP** pode exigir permissões administrativas adicionais de
 
 ---
 
-🧠 Observações Técnicas
+## 🧠 Observações Técnicas
 
 O script utiliza PowerShell Remoting (WinRM) sempre que possível
 
@@ -78,14 +78,14 @@ O PsExec (caso utilizado em versões anteriores) pode ser identificado como ferr
 
 ---
 
-📄 Licença
+## 📄 Licença
 
 Este projeto é de uso interno / educacional.
 Sinta-se à vontade para adaptar e evoluir conforme a necessidade do seu ambiente.
 
 ---
 
-🤝 Contribuições
+## 🤝 Contribuições
 
 Sugestões, melhorias e feedbacks são bem-vindos!
 Abra uma issue ou envie um pull request 🚀
