@@ -52,4 +52,4 @@ O acesso remoto por **IP** pode exigir permissões administrativas adicionais de
 
 1. Baixe ou clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/Ast0nish/Finalizar_Processo
